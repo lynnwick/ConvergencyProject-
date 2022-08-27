@@ -1,1 +1,3 @@
-# ConvergencyProject-
+# ConvergencyProject
+
+Computer Architecture and Technology 
